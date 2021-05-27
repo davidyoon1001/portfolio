@@ -28,7 +28,7 @@
 	</div>
 	<div class="content">
 	
-		<div><h2>Java Spring Developer</h2></div>
+		<div><h2>Front End Developer</h2></div>
 		<div class="subtitle"><p>Hi! I'm David, a developer who's interested in challenging career in web application development environment. </p></div>
 		
 		<div class="division"></div>
@@ -37,9 +37,10 @@
 			<div><h2><i class="material-icons-outlined">library_books</i>	Stack</h2>	</div>
 			<div class="subtitle"><p>Skill / Tools that I can make use of.</p></div>
 			<ul style="padding-left: 20px;">
-				<li>Java</li>
 				<li>HTML</li>
 				<li>CSS</li>
+				<li>JQuery</li>
+				<li>Java</li>
 				<li>JavaScript</li>
 				<li>Git</li>
 				<li>Mysql</li>
@@ -48,7 +49,7 @@
 		
 		<div class="github"><h2><i class="material-icons-outlined">cloud</i> GitHub</h2></div>
 		
-		<div class="subtitle"><p>GitHub account that I'm working on projects.</p></div>
+		<div class="subtitle"><p>Visit my GitHub page to see my works.</p></div>
 		
 		<div class="clickbox">
 			<a href="https://github.com/davidyoon1001" target="_blank">
@@ -75,11 +76,49 @@
 		<div class="subtitle"><p>Personal web projects I've done as I learn stacks.</p></div>
 		
 		<div class="clickbox">
+			<a href="https://davidyoon1001.github.io/skateboard" target="_blank">
+				<div id="w75">
+					<div class="description">
+						<div><p class="comment1">Skate board - Overview</p></div>
+						<div><p class="comment2">Fully responsive web site displaying filters, side and top navigation bar - built with HTML, CSS and JQuery.</p></div>
+						<div class="logourl">
+							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
+							<p class="comment3">https://davidyoon1001.github.io/skateboard</p>
+						</div>
+					</div>
+				</div>
+				<div id="w25">
+					<div class="descimg">
+						<img class="projectimg" src="<spring:url value='/resources/skateboard.png'/>">
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="clickbox">
+			<a href="https://davidyoon1001.github.io/los-angeles-mountains/" target="_blank">
+				<div id="w75">
+					<div class="description">
+						<div><p class="comment1">Los Angeles Mountains - Overview</p></div>
+						<div><p class="comment2">Fully responsive web with features of nav bar buttons navigates to the according sections, image carousel and tabs displaying different contents - built with HTML, CSS and Jquery. </p></div>
+						<div class="logourl">
+							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
+							<p class="comment3">https://davidyoon1001.github.io/los-angeles-mountains</p>
+						</div>
+					</div>
+				</div>
+				<div id="w25">
+					<div class="descimg">
+						<img class="projectimg" src="<spring:url value='/resources/los-angeles-mountains.png'/>">
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="clickbox">
 			<a href="http://3.13.240.211/" target="_blank">
 				<div id="w75">
 					<div class="description">
 						<div><p class="comment1">Lifetime Calculator - Overview</p></div>
-						<div><p class="comment2">A lifetime template displayer for people who has not yet given some long hard look at their lifetime.</p></div>
+						<div><p class="comment2">A lifetime template displayer - built with JAVA, HTML, CSS using STS.</p></div>
 						<div class="logourl">
 							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
 							<p class="comment3"> http://3.13.240.211</p>

@@ -344,3 +344,13 @@ i{
   padding: 50px;
   display: none;
 }
+@media screen and (max-width:800px){
+	.topname{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.content{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
