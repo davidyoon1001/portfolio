@@ -111,7 +111,7 @@
 				</div>
 				<div id="w25">
 					<div class="descimg">
-						<img class="projectimg" src="<spring:url value='/resources/lifetimecalculator.png'/>">
+						<img class="projectimg" src="<spring:url value='/resources/tip-calculator.png'/>">
 					</div>
 				</div>
 			</a>
@@ -174,10 +174,6 @@
 				</div>
 			</a>
 		</div>
-		<br>
-		<br>
-		<br>
-		<br>
 		<br>
 		<br>
 	</div>
