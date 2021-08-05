@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/davidyoon/Documents/workspace-spring-tool-suite-4-4.7.0.RELEASE/SpringData1/Portfolio/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2429138500.index

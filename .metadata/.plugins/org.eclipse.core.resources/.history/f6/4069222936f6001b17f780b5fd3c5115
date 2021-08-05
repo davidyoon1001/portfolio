@@ -35,15 +35,13 @@
 		
 		<div class="stack">
 			<div><h2><i class="material-icons-outlined">library_books</i>	Stack</h2>	</div>
-			<div class="subtitle"><p>Stacks&Tools that I can make use of.</p></div>
+			<div class="subtitle"><p>Skill / Tools that I can make use of.</p></div>
 			<ul style="padding-left: 20px;">
 				<li>HTML</li>
 				<li>CSS</li>
-				<li>JavaScript</li>
-				<li>Java</li>
-				<li>React</li>
 				<li>JQuery</li>
-				<li>Spring Tool Suite</li>
+				<li>Java</li>
+				<li>JavaScript</li>
 				<li>Git</li>
 				<li>Mysql</li>
 			</ul>
@@ -77,45 +75,6 @@
 		
 		<div class="subtitle"><p>Personal web projects I've done as I learn stacks.</p></div>
 		
-		
-		<div class="clickbox">
-			<a href="http://3.13.240.211/" target="_blank">
-				<div id="w75">
-					<div class="description">
-						<div><p class="comment1">Lifetime Calculator - Overview</p></div>
-						<div><p class="comment2">A lifetime template displayer - built with JAVA, HTML, CSS using STS.</p></div>
-						<div class="logourl">
-							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
-							<p class="comment3"> http://3.13.240.211</p>
-						</div>
-					</div>
-				</div>
-				<div id="w25">
-					<div class="descimg">
-						<img class="projectimg" src="<spring:url value='/resources/lifetimecalculator.png'/>">
-					</div>
-				</div>
-			</a>
-		</div>
-		<div class="clickbox">
-			<a href="https://davidyoon1001.github.io/tip-calculator-app/" target="_blank">
-				<div id="w75">
-					<div class="description">
-						<div><p class="comment1">Tip Calculator App - Overview</p></div>
-						<div><p class="comment2">Simple tip calculating application - built with HTML, CSS and Vanilla JS</p></div>
-						<div class="logourl">
-							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
-							<p class="comment3"> https://davidyoon1001.github.io/tip-calculator-app/</p>
-						</div>
-					</div>
-				</div>
-				<div id="w25">
-					<div class="descimg">
-						<img class="projectimg" src="<spring:url value='/resources/lifetimecalculator.png'/>">
-					</div>
-				</div>
-			</a>
-		</div>
 		<div class="clickbox">
 			<a href="https://davidyoon1001.github.io/skateboard" target="_blank">
 				<div id="w75">
@@ -132,7 +91,7 @@
 					<div class="descimg">
 						<img class="projectimg" src="<spring:url value='/resources/skateboard.png'/>">
 					</div>
-				</div>
+				</div>  
 			</a>
 		</div>
 		<div class="clickbox">
@@ -150,6 +109,25 @@
 				<div id="w25">
 					<div class="descimg">
 						<img class="projectimg" src="<spring:url value='/resources/los-angeles-mountains.png'/>">
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="clickbox">
+			<a href="http://3.13.240.211/" target="_blank">
+				<div id="w75">
+					<div class="description">
+						<div><p class="comment1">Lifetime Calculator - Overview</p></div>
+						<div><p class="comment2">A lifetime template displayer - built with JAVA, HTML, CSS using STS.</p></div>
+						<div class="logourl">
+							<img class="logoimg" src="<spring:url value='/resources/logo-webpage.png'/>">
+							<p class="comment3"> http://3.13.240.211</p>
+						</div>
+					</div>
+				</div>
+				<div id="w25">
+					<div class="descimg">
+						<img class="projectimg" src="<spring:url value='/resources/lifetimecalculator.png'/>">
 					</div>
 				</div>
 			</a>

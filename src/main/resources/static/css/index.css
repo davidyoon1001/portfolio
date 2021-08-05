@@ -344,7 +344,7 @@ i{
   padding: 50px;
   display: none;
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:900px){
 	.topname{
 		margin-left: 20px;
 		margin-right: 20px;
